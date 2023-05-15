@@ -1,0 +1,8 @@
+files/node_modules/@capacitor/app
+files/node_modules/@capacitor/haptics
+files/node_modules/@capacitor/keyboard
+files/node_modules/@capacitor/push-notifications
+files/node_modules/@ionic-enterprise/auth
+files/node_modules/@ionic-enterprise/identity-vault
+files/android
+files/node_modules/@capacitor/android
