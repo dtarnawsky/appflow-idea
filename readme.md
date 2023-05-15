@@ -16,7 +16,7 @@ On your Local CI (or Dev) machine: Compress the `ios` or `android` folder as wel
 In this repo you can copy your Ionic project to a folder called `files`, then run `node index.js files`. This will create the file `app.tar.xz`. You can upload this with `curl --upload--file ./app.tar.xz https://transfer.sh/app.tar.xz`
 
 ## In Appflow:
-Your GitHub repo only requires one file: `appflow.config.json`:
+Create a new app using the new native iOS and Android types. Your GitHub repo only requires one file: `appflow.config.json`:
 ```json
 {
     "apps":
